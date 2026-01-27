@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  zynthora-web:
+    build: .
+    container_name: zynthora-landing
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+    networks:
+      - zynthora-network
+    environment:
+      - NGINX_HOST=localhost
+      - NGINX_PORT=80
+    labels:
+      - "com.zynthora.description=Zynthora.ai Landing Page"
+      - "com.zynthora.version=1.0"
+
+networks:
+  zynthora-network:
+    driver: bridge
