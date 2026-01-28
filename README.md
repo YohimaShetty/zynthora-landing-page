@@ -1,4 +1,4 @@
-# 🚀 Zynthora.ai Landing Page - Full Stack Docker Project
+# Zynthora.ai Landing Page 
 
 ## 📋 Project Overview
 
