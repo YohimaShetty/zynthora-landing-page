@@ -149,7 +149,7 @@ Ready to deploy to:
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/YohimaShetty)
+- GitHub: [@YohimaShetty](https://github.com/YohimaShetty)
 - LinkedIn: [Yohima Shetty](https://www.linkedin.com/in/yohima-shetty-bb9ba1265/)
 
 ---
