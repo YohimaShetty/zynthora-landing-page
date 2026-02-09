@@ -149,8 +149,8 @@ Ready to deploy to:
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/YohimaShetty)
+- LinkedIn: [Yohima Shetty](https://www.linkedin.com/in/yohima-shetty-bb9ba1265/)
 
 ---
 
